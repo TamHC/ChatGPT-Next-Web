@@ -1,3 +1,8 @@
 {
-  "mcpServers": {}
+  "mcpServers": {
+    "podcast": {
+      "type": "sse", // Explicitly define type
+      "url": "https://mcpo.thc.us.kg/podcast-tts"
+    }
+  }
 }
