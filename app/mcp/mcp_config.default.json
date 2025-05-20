@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "podcast": {
-      "type": "sse", // Explicitly define type
+      "type": "sse",
       "url": "https://mcpo.thc.us.kg/podcast-tts"
     }
   }
